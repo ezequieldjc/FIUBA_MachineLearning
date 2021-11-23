@@ -61,7 +61,7 @@ diccionario1 = {'nombre':'_nombre',
                 'edad': 22,
                 'trabaja': True
                 }
-
+                
 print(diccionario1)
 
 #diccionario.keys() devuelve las claves
